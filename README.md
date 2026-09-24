@@ -51,8 +51,8 @@ A computer-vision project focused on detection and tracking — combining OpenCV
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) *(update with your link)*
-- 📧 **Email:** your.email@example.com *(update with your email)*
+- 💼 **LinkedIn:** [linkedin.com/in/jonas-jaritz](www.linkedin.com/in/jonas-jaritz) *(update with your link)*
+- 📧 **Email:** jaritzjonas@gmail.com
 - 🐙 **GitHub:** [@jojaritz](https://github.com/jojaritz)
 
 ---
